@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman kapil</h1>
-<h3 align="center"> A Compitetive programer & a web developer with django</h3> 
+<h3 align="center"> A competitive programmer & a web developer with django</h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankapil" alt="amankapil" /></a> </p>
 
