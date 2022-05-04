@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 💬 Ask me about **HTML ||CSS ||JAVASCRIPT**
+- 💬 Ask me about **HTML ||CSS ||JAVASCRIPT||DJANGO||BOOTSTRAP**
 
 - 📫 How to reach me **amankapil60@gmail.com**
 
