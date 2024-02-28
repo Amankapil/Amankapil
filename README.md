@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankapil" alt="amankapil" /></a> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **HTML ||CSS ||JAVASCRIPT||DJANGO||BOOTSTRAP||NODEJS||REACTJS**
+- 💬 Ask me about **MERN Stack || NextJS || Tailwind CSS**
 
 - 📫 How to reach me **amankapil60@gmail.com**
 
-- ⚡ Fun fact **no fun fact**
+- ⚡ Fun fact **Chat GPT can replace me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
